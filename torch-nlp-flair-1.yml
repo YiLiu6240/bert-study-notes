@@ -1,0 +1,5 @@
+name: torch-flair-nlp
+channels:
+  - defaults
+prefix: /data/ik18445/miniconda3/envs/torch-flair-nlp
+
