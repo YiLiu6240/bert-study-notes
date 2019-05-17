@@ -1,5 +1,7 @@
 # BERT study notes
 
+Presentation at 2019-05-17 bioinformatics study group.
+
 This is my humble attempt at studying Google's 
 [BERT](https://github.com/google-research/bert)
 ([Devlin et al., 2018](https://arxiv.org/abs/1810.04805)) framework for NLP tasks.
